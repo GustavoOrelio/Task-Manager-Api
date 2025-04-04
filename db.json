@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1857588c-3b50-472b-91ca-8aa3e345ef9a",
+      "title": "Teste 1",
+      "time": "morning",
+      "description": "Testando 1",
+      "status": "not_started"
+    },
+    {
+      "id": "92c7741a-664c-40ad-b9f9-c3f4235abbbc",
+      "title": "Teste 2",
+      "time": "afternoon",
+      "description": "Teste 2",
+      "status": "done"
+    },
+    {
+      "id": "b70f0086-891b-4233-b481-a61ab7f7e875",
+      "title": "Teste 3",
+      "time": "evening",
+      "description": "Testeeee 3",
+      "status": "in_progress"
+    }
+  ]
+}
